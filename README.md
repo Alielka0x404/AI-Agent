@@ -26,8 +26,8 @@ The agent is built with a modular architecture:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-agent.git
-   cd ai-agent
+   git clone https://github.com/Alielka0x404/AI-Agent.git
+   cd AI-Agent
    ```
 
 2. Install dependencies:
